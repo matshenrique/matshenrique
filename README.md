@@ -1,42 +1,95 @@
-# Olá, eu sou o Matheus! 👋
-### Desenvolvedor Web | Estudante de Back-end
+<div align="center">
 
-Sou apaixonado por tecnologia e focado na criação de interfaces dinâmicas e eficientes. Atualmente, estou expandindo meus conhecimentos para o desenvolvimento back-end e gerenciamento de banco de dados para me tornar um desenvolvedor cada vez mais completo.
+# 👋 Olá, eu sou o Matheus Henrique
 
----
+### 💻 Desenvolvedor Web | 🚀 Estudante de Back-end
 
-### 🚀 Sobre Mim
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+GitHub!;Front-end+Developer;Estudando+Back-end;Sempre+aprendendo+novas+tecnologias." alt="Typing SVG"/>
 
-- 🎓 Graduando em **Análise e Desenvolvimento de Sistemas**.
-- 📍 Baseado em **Recife, PE**.
-- 💻 Tenho sólida experiência no **Front-end**, construindo aplicações responsivas e componentizadas.
-- ⚙️ Atualmente aprofundando meus estudos no ecossistema **Back-end**, englobando arquitetura, APIs e persistência de dados.
-- 🎨 Tenho um grande interesse por **UI/UX e Design**, utilizando ferramentas para idealizar projetos antes de codar.
+</div>
 
 ---
 
-### 💻 Tecnologias e Ferramentas
+## 🚀 Sobre mim
 
-#### Front-end & Design
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+🎓 Graduando em **Análise e Desenvolvimento de Sistemas**
 
-#### Back-end & Banco de Dados (Estudando)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+📍 Recife - Pernambuco, Brasil
+
+💜 Apaixonado por desenvolvimento de software, interfaces modernas e boas experiências de usuário.
+
+💻 Atuo principalmente no **Front-end**, desenvolvendo aplicações responsivas, componentizadas e escaláveis.
+
+⚙️ Atualmente estudando **Back-end**, APIs REST, bancos de dados e arquitetura de software.
+
+🎨 Também gosto de criar protótipos no **Figma** antes de transformar ideias em código.
 
 ---
 
-### 📫 Como me encontrar
+# 🛠️ Tecnologias
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-henrique-6b8a79352/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheus.hss.m4@gmail.com)
+### 🎨 Front-end
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,bootstrap,figma" />
+</p>
+
+### ⚙️ Back-end
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,java" />
+</p>
+
+### 🗄️ Banco de Dados
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
+</p>
+
+---
+
+# 📊 Estatísticas
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 Sequência de Contribuições
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌎 Conecte-se comigo
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/matheus-henrique-6b8a79352/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:matheus.hss.m4@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💜 "A melhor maneira de prever o futuro é criá-lo."
+
+<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blueviolet&style=for-the-badge"/>
+
+</div>
