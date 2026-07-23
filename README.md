@@ -39,4 +39,4 @@ Sou apaixonado por tecnologia e focado na criação de interfaces dinâmicas e e
 ### 📫 Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-henrique-6b8a79352/)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheus.hss.m4@gmail.com)
+![Gmail](mailto:matheus.hss.m4@gmail.com)
