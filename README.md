@@ -34,17 +34,6 @@ Sou apaixonado por tecnologia e focado na criação de interfaces dinâmicas e e
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=radical" alt="Top Languages" height="150" />
-</p>
-
-> 💡 **Nota:** Não esqueça de trocar `SEU_USUARIO_AQUI` pelo seu nome de usuário do GitHub na URL das estatísticas acima!
-
----
-
 ### 📫 Como me encontrar
 
 ![LinkedIn](https://www.linkedin.com/in/matheus-henrique-6b8a79352/)
